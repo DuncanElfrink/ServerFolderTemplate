@@ -1,6 +1,6 @@
 # ServerFolderTemplate
 
-            <b><u>Server Folder Template</u></b>
+<p>Server Folder Template
             <br><br>
             Yeah, not actually an update, but...
             Today I want to share you guys my Server Folder Template.
@@ -20,6 +20,5 @@
             Both scripts are both functional for any Task Scheduling.
             <br><br>
             Well... I also included some README's for you know...
-            <br><br>
 
-            Goodluck and have fun!
+            Goodluck and have fun!</p>
