@@ -21,4 +21,4 @@ Server Folder Template
             <br><br>
             Well... I also included some README's for you know...
 
-            Goodluck and have fun!
+Goodluck and have fun!
